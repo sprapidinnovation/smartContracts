@@ -1,0 +1,4 @@
+xWife :
+1. Token sale functionality. Initially locked tokens are sold to user which they can unlock after the first phase ends.
+
+2 Uses Aave Rewards distribution manager to distribute rewards

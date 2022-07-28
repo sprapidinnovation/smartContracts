@@ -1,0 +1,8 @@
+1. CrashGame : 
+Admin creates a game every few seconds with new game id generated from backend.
+
+Users place bet with coins and a number
+
+Admin starts the game and bets are paused
+
+Admin ends the game and gives a random number, which is matched with bets placed in that game, and reward is distributed/taken from housepool
